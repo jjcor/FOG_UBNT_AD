@@ -6,6 +6,8 @@ Donec convallis aliquet nisl, in elementum mauris scelerisque at. Mauris gravida
 
 ``` {.bash}
 apt get update && apt dist-upgrade -y
+```
+``` {.bash}
 apt install wget htop snmmpd
 ```
 
